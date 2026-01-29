@@ -30,7 +30,7 @@ public class Test {
 
     // Main method
     public static void main(String[] args) {
-        int x = 20;
+        int x = 10;
         int y = 4;
 
         add(x, y);
